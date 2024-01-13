@@ -7,7 +7,15 @@ const nextConfig = {
         hostname: 'lp2.hm.com'
       },
       {
+        protocol: 'http',
+        hostname: 'lp2.hm.com'
+      },
+      {
         protocol: 'https',
+        hostname: 'image.hm.com'
+      },
+      {
+        protocol: 'http',
         hostname: 'image.hm.com'
       }
     ]
