@@ -1,8 +1,7 @@
 // import { notFound } from 'next/navigation'
 
-import { ProductGrid } from '@/components'
+import { ProductGrid, Title } from '@/components'
 import { CategoryName, inicialData } from '../../../../../public/seedProducts'
-import Title from '@/components/ui/title/Title'
 
 // const products = inicialData.results.slice(0, 7)
 const products = inicialData.results

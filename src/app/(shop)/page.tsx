@@ -1,5 +1,4 @@
-import { ProductGrid } from '@/components'
-import Title from '@/components/ui/title/Title'
+import { ProductGrid, Title } from '@/components'
 import { inicialData } from '../../../public/seedProducts'
 // import MiPagina from '@/services'
 

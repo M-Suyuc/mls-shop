@@ -24,7 +24,7 @@ export const ProductGridItem = ({ product }: Props) => {
         <Image
           src={`${displaImage}`}
           alt={name}
-          className='w-full h-[380px] object-top object-cover rounded '
+          className='w-full h-[250px] md:h-[380px] object-fill sm:object-cover object-top rounded'
           width={500}
           height={500}
           onMouseEnter={() =>
